@@ -1,0 +1,24 @@
+#ifndef SEVEN_SEGMENT_H
+#define SEVEN_SEGMENT_H
+
+#include <avr/pgmspace.h>
+
+const uint8_t hex_segments[16] PROGMEM = {
+  0b00111111,
+  0b00000110,
+  0b01011011,
+  0b01001111,
+  0b01100110,
+  0b01101101,
+  0b01111101,
+  0b00000111,
+  0b01111111,
+  0b01100111,
+  0b01110111,
+  0b01111100,
+  0b00111001,
+  0b01011110,
+  0b01111001,
+  0b01110001};
+
+#endif

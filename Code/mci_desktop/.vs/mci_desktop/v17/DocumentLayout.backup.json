@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF16A35-3FD1-409F-9E79-B6677183014B}|mci_desktop_tester\\mci_desktop_tester.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop_tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF16A35-3FD1-409F-9E79-B6677183014B}|mci_desktop_tester\\mci_desktop_tester.csproj|solutionrelative:mci_desktop_tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCD2888-676D-4CB2-B399-347E2E9D0A2F}|mci_game\\mci_game.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCD2888-676D-4CB2-B399-347E2E9D0A2F}|mci_game\\mci_game.csproj|solutionrelative:mci_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\serial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\serial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\mci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\mci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\modules\\04_seven_segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\modules\\04_seven_segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\modules\\05_quad_light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\modules\\05_quad_light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\modules\\01_quad_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\modules\\01_quad_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|c:\\users\\josh\\documents\\uni\\part iii\\part iii individual project\\resources\\code\\mci_desktop\\mci_desktop\\modules\\03_single_knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4136A3-5B97-467F-B3FD-F468F85DA7FD}|mci_desktop\\mci_desktop.csproj|solutionrelative:mci_desktop\\modules\\03_single_knob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serial.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\Serial.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\Serial.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\Serial.cs",
+              "RelativeToolTip": "mci_desktop\\Serial.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:55:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_game\\Program.cs",
+              "RelativeDocumentMoniker": "mci_game\\Program.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_game\\Program.cs",
+              "RelativeToolTip": "mci_game\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T21:27:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "03_single_knob.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\03_single_knob.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\modules\\03_single_knob.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\03_single_knob.cs",
+              "RelativeToolTip": "mci_desktop\\modules\\03_single_knob.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:34:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "04_seven_segment.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\04_seven_segment.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\modules\\04_seven_segment.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\04_seven_segment.cs",
+              "RelativeToolTip": "mci_desktop\\modules\\04_seven_segment.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:34:02.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05_quad_light.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\05_quad_light.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\modules\\05_quad_light.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\05_quad_light.cs",
+              "RelativeToolTip": "mci_desktop\\modules\\05_quad_light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:33:53.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\Module.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\Module.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\Module.cs",
+              "RelativeToolTip": "mci_desktop\\Module.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:33:20.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MCI.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\MCI.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\MCI.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\MCI.cs",
+              "RelativeToolTip": "mci_desktop\\MCI.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:20:17.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop_tester\\Program.cs",
+              "RelativeDocumentMoniker": "mci_desktop_tester\\Program.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop_tester\\Program.cs",
+              "RelativeToolTip": "mci_desktop_tester\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwF4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:59:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01_quad_button.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\01_quad_button.cs",
+              "RelativeDocumentMoniker": "mci_desktop\\modules\\01_quad_button.cs",
+              "ToolTip": "C:\\Users\\Josh\\Documents\\uni\\PART III\\Part III Individual Project\\Resources\\Code\\mci_desktop\\mci_desktop\\modules\\01_quad_button.cs",
+              "RelativeToolTip": "mci_desktop\\modules\\01_quad_button.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:34:14.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
